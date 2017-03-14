@@ -1,7 +1,7 @@
 Bootstrap Responsive Tabs
 =========================
 
-This uses standard Bootstrap 3.0.0 css and js for the tabs and collapse accordion items. They are regular [tabs](http://getbootstrap.com/javascript/#tabs) at some screen sizes and [collapsible](http://getbootstrap.com/javascript/#collapse) components based on the Bootstrap [Responsive Utilities](http://getbootstrap.com/css/#responsive-utilities), which can be defined by editing one attribute in the javascript file.
+This uses standard Bootstrap v4.0.0-alpha.6 css and js for the tabs and collapse accordion items. They are regular [tabs](http://getbootstrap.com/javascript/#tabs) at some screen sizes and [collapsible](https://v4-alpha.getbootstrap.com/components/collapse/e) components based on the Bootstrap [Responsive Utilities](https://v4-alpha.getbootstrap.com/layout/responsive-utilities/), which can be defined by editing one attribute in the javascript file.
 
 Demo and Documentation
 ======================
